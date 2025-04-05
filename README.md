@@ -31,3 +31,5 @@ Common use-cases include:
 - 📦 YOLOv5 (by Ultralytics)
 - 🎥 OpenCV
 - 🧪 Jupyter Notebook / Python Scripts
+
+## 🚀 Results
