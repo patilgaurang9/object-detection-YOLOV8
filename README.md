@@ -33,3 +33,4 @@ Common use-cases include:
 - 🧪 Jupyter Notebook / Python Scripts
 
 ## 🚀 Results
+<img width="308" alt="image" src="https://github.com/user-attachments/assets/1e618e7f-96ce-44b9-a71b-5eb33a4e2890" />
